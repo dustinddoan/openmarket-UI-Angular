@@ -1,0 +1,6 @@
+{
+  "/api": {
+  "target": "http://openmarket.us.auth0.com/",
+  "secure": false
+  }
+  }
